@@ -1,4 +1,11 @@
-The .PKT files.
+## 📦 Packet Tracer (.pkt) Files
 
-If there is any issue with opening the downloaded .pkt file try the following: 
-  Make sure top click "RAW" and not just the download button. This should fix 99% of the file issues.
+If you have trouble opening a downloaded `.pkt` file, it’s usually due to how the file was downloaded from GitHub.
+
+### ✅ How to fix it
+1. Click the `.pkt` file in the repository.  
+2. Click RAW (do NOT use “Save page as” or download the page).
+3. Save the file and open it with Cisco Packet Tracer.
+
+Using RAW ensures you download the actual `.pkt` file instead of an HTML file.  
+This fixes 99% of Packet Tracer file issues.
